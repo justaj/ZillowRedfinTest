@@ -1,0 +1,5 @@
+zillow:
+    token: token
+    address: enter address to search for
+    city: enter city to search for
+    state: enter state to search for
